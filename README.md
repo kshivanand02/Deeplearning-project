@@ -1,1 +1,1 @@
-# Deeplearning-project
+# Deeplearning-project potato leaf disease detection
